@@ -1,0 +1,23 @@
+{
+  "name": "famcor.wizaya.com",
+  "version": "1.0.0",
+  "description": "FAMCOR Mentoring App",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jybanez/famcor.wizaya.com.git"
+  },
+  "keywords": [
+    "FAMCOR",
+    "Mentoring"
+  ],
+  "author": "Wizaya Business Technologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jybanez/famcor.wizaya.com/issues"
+  },
+  "homepage": "https://github.com/jybanez/famcor.wizaya.com#readme"
+}

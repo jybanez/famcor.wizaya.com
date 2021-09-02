@@ -1,0 +1,7 @@
+{
+  "name": "FAMCOR Mentoring",
+  "type": "custom",
+  "integrations": {
+    "cordova": {}
+  }
+}
